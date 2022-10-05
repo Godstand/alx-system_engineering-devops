@@ -1,1 +1,1 @@
-This is repository for my shell basics
+This is my README file
